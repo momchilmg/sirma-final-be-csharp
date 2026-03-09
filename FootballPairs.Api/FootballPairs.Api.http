@@ -1,0 +1,6 @@
+@FootballPairs.Api_HostAddress = http://localhost:5140
+
+GET {{FootballPairs.Api_HostAddress}}/api/auth/me
+Accept: application/json
+
+###
